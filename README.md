@@ -3,7 +3,7 @@ Trabalho desenvolvido durante a disciplina de Banco de Dados do Técnico em Info
 
 # Sumário
 
-### 1. COMPONENTES <br>
+### 1. DISCENTES <br>
 	
 	Flávia Pissarra: flaviapissarra@gmail.com
 	Jefferson Napomuceno: erjeffesonnapomuceno@gmail.com
