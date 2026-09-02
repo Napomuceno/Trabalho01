@@ -46,10 +46,12 @@ Descrever o mini-mundo. Não deve ser maior do que 30 linhas. <br>
 	  desde a parte de cortes e pinturas (entre outros) quanto do estoque de produtos e saldo conforme o tempo.
 
 ### 4. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-Neste ponto a codificação não e necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas. <br>
+Neste ponto a codificação não é necessária, somente as ideias de telas devem ser criadas, o princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas ou descartadas. <br>
+
 Sugestão: https://balsamiq.com/products/mockups/<br>
 
-![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
+Ideia inicial (2016): ![Alt text](https://github.com/discipbd1/trab01/blob/master/balsamiq.png?raw=true "Title")
+Atualização (2026): [ainda em construção]
 
 	https://salaobelezapura.mybalsamiq.com/projects/salaodebeleza/grid
 
