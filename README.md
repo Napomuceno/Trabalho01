@@ -1,5 +1,5 @@
 # TRABALHO 01
-Trabalho desenvolvido durante a disciplina de BD
+Trabalho desenvolvido durante a disciplina de BD do Técnico em Informática no Ifes Campus Serra.
 
 # Sumário
 
@@ -53,7 +53,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 	https://salaobelezapura.mybalsamiq.com/projects/salaodebeleza/grid
 
-### 5.MODELO CONCEITUAL<br>
+### 5. MODELO CONCEITUAL<br>
     a) NOTACAO ENTIDADE RELACIONAMENTO
 ![Alt text](https://github.com/discipbd1/trab01/blob/master/sample_MC.png?raw=true "Modelo Conceitual")
     
@@ -79,13 +79,14 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 
 
-### 6	MODELO LÓGICO<br>
-### 7	MODELO FÍSICO<br>
+### 6. MODELO LÓGICO<br>
+### 7. MODELO FÍSICO<br>
 
         Entrega até este ponto em (data a ser definida)
         
  
-### 8	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
+### 8. INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
+
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
         Referenciar todas as fontes referentes a :
@@ -98,11 +99,11 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         b) inclusão das instruções de inserção dos dados nas referidas tabelas
         c) inclusão das instruções para execução de outros procedimentos necessários
 
-
         Entrega até este ponto em (data a ser definida)
         
-### 9	TABELAS E PRINCIPAIS CONSULTAS<br>
+### 9.	TABELAS E PRINCIPAIS CONSULTAS<br>
 OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
+
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
 #### 9.2	CONSULTAS DAS TABELAS COM FILTROS WHERE (Mínimo 3) <br>
 #### 9.3	CONSULTAS QUE USAM OPERADORES LÓGICOS, ARITMÉTICOS E CAMPOS RENOMEADOS (Mínimo 2)<br>
@@ -111,13 +112,13 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 #### 9.6	CONSULTAS COM JUNÇÃO (Todas Junções)<br>
 #### 9.7	CONSULTAS COM GROUP BY (Mínimo 5)<br>
         Entrega até este ponto em (data a ser definida)
-        
 #### 9.8	CONSULTAS COM LEFT E RIGHT JOIN (Mínimo 4) <br>
 #### 9.9	CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
 #### 9.10	SUBCONSULTAS (Mínimo 3) <br>
-### 10	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
-### 11	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+
+### 10.	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
+### 11.	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
 
         Entrega até este ponto em (data a ser definida)
         
-### 12  FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+### 12. FORMATACAO NO GIT: https://help.github.com/articles/basic-writing-and-formatting-syntax/
