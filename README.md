@@ -1,5 +1,5 @@
 # TRABALHO 01
-Trabalho desenvolvido durante a disciplina de BD do Técnico em Informática no Ifes Campus Serra (2016).
+Trabalho desenvolvido durante a disciplina de Banco de Dados do Técnico em Informática no Ifes Campus Serra (2016).
 
 # Sumário
 
