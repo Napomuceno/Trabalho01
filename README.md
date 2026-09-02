@@ -57,37 +57,40 @@ Atualização (2026): [ainda em construção]
 
 ### 5. MODELO CONCEITUAL<br>
     a) NOTACAO ENTIDADE RELACIONAMENTO
-![Alt text](https://github.com/discipbd1/trab01/blob/master/sample_MC.png?raw=true "Modelo Conceitual")
+	[ainda em construção]
+	exemplo:
+![Alt text](https://github.com/discipbd1/trab01/blob/master/images/concept_sample.png)
     
-    b) NOTACAO UML (Caso esteja fazendo a disciplina de analise)
+    b) NOTACAO UML [ainda em construção]
 
 #### 5.1 Validação do Modelo Conceitual
-    [Grupo01]: [Nomes dos que participaram na avaliação]
-    [Grupo02]: [Nomes dos que participaram na avaliação]
 
-#### 5.2 DECISÕES DE PROJETO
+	[Grupo01]: [Nomes dos que participaram na avaliação] (em construção)
+    [Grupo02]: [Nomes dos que participaram na avaliação] (em construção)
+
+#### 5.2 DECISÕES DE PROJETO (em construção)
+
     [atributo]: [descrição da decisão]
-    
+	
     EXEMPLO:
     a) Campo endereço: em nosso projeto optamos por um campo multivalorado e composto, pois a empresa 
     pode possuir para cada departamento mais de uma localização... 
     b) justifique!
 
-#### 5.3 DESCRIÇÃO DOS DADOS 
+#### 5.3 DESCRIÇÃO DOS DADOS [ainda em construção]
     [objeto]: [descrição do objeto]
     
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 
-
-### 6. MODELO LÓGICO<br>
-### 7. MODELO FÍSICO<br>
+### 6. MODELO LÓGICO<br> [ainda em construção]
+### 7. MODELO FÍSICO<br> [ainda em construção]
 
         Entrega até este ponto em (data a ser definida)
         
  
-### 8. INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
+### 8. INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br> [ainda em construção]
 
 #### 8.1 DETALHAMENTO DAS INFORMAÇÕES
         Detalhamento sobre as informações e processo de obtenção ou geração dos dados.
@@ -103,7 +106,7 @@ Atualização (2026): [ainda em construção]
 
         Entrega até este ponto em (data a ser definida)
         
-### 9.	TABELAS E PRINCIPAIS CONSULTAS<br>
+### 9.	TABELAS E PRINCIPAIS CONSULTAS<br> [ainda em construção]
 OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
 
 #### 9.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
@@ -118,8 +121,8 @@ OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mos
 #### 9.9	CONSULTAS COM SELF JOIN (todas) E VIEW (mais importantes) <br>
 #### 9.10	SUBCONSULTAS (Mínimo 3) <br>
 
-### 10.	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br>
-### 11.	DIFICULDADES ENCONTRADAS PELO GRUPO<br>
+### 10.	ATUALIZAÇÃO DA DOCUMENTAÇÃO DOS SLIDES<br> [ainda em construção]
+### 11.	DIFICULDADES ENCONTRADAS PELO GRUPO<br> [ainda em construção]
 
         Entrega até este ponto em (data a ser definida)
         
