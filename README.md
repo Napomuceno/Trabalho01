@@ -11,7 +11,7 @@ Trabalho desenvolvido durante a disciplina de BD do Técnico em Informática no 
 ### 2. INTRODUÇÃO E MOTIVAÇÃO <br>
 	
 	Este documento contém a especificação do projeto do banco de dados "Beleza Pura Beauty Salon".
-	Escolhemos esse tema pois (motivação da escolha realizada)
+	Escolhemos esse tema pois ele parte de uma realidade de um estabelecimento do nosso bairro.
 
 ### 3. MINI-MUNDO DO SALÃO "BELEZA PURA" <br>
 Descrever o mini-mundo. Não deve ser maior do que 30 linhas. <br>
